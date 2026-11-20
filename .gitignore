@@ -1,0 +1,7 @@
+.DS_Store
+looker.ini
+
+# Build artifacts
+*.egg-info/
+__pycache__
+.coverage

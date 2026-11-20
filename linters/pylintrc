@@ -1,0 +1,10 @@
+[MAIN]
+exit-zero=TRUE
+load-plugins=pylint_actions
+py-version=3.13
+
+[MESSAGES CONTROL]
+disable=import-error,
+        line-too-long,
+        missing-function-docstring
+

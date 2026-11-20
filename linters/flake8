@@ -1,0 +1,6 @@
+[flake8]
+# E301 expected 1 blank line, found 0
+# E303 too many blank lines
+# E501 line too long
+extend-ignore = E301,E303,E501
+

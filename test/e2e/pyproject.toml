@@ -1,0 +1,11 @@
+[project]
+name = "okta-looker-scim-bridge-test-e2e"
+version = "0.1.0"
+description = "End-to-end test suite for the Okta-Looker SCIM provisioning bridge."
+readme = "README.md"
+dependencies = [
+  "looker-sdk~=26.6.1",
+  "okta~=3.4.2"
+]
+[project.urls]
+repository = "https://github.com/epidemicsound/okta-looker-scimbridge-pub/test"
