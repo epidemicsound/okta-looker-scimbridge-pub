@@ -23,7 +23,7 @@ blinker==1.9.0
     # via okta
 cattrs==26.1.0
     # via looker-sdk
-certifi==2026.4.22
+certifi==2026.10.18
     # via requests
 cffi==2.0.0
     # via cryptography
